@@ -2,16 +2,16 @@
 
 <b>Disciplina</b>: Estruturas de Dados
 
-Professor: Ricardo Campello
+<b>Professor</b>: Ricardo Campello
 
-Integrantes: Andressa Freires e Caio Dallaqua
+<b>Integrantes</b>: Andressa Freires e Caio Dallaqua
 
-Critérios de avaliação: exatidão, qualidade do conteúdo e do documento, esforço e participação
+<b>Critérios de avaliação</b>: exatidão, qualidade do conteúdo e do documento, esforço e participação
 de ambos os alunos (averiguada via apresentação e arguição oral).
 
-Nota: Máxima
+<b>Nota</b>: Máxima
 
-Ano: 2015
+<b>Ano</b>: 2015
 
 
 A implementação nesse repositório foi feita como parte de um trabalho para a disciplina de Estruturas de Dados da graduação em Física Computacional, na Universidade de São Paulo (USP). 
